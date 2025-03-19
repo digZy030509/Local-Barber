@@ -309,6 +309,11 @@ footer {
 
   border-radius: 5px;
 }
+.container-img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
 .hero-contact {
   background: url("assets/services.avif");
   background-size: cover;
@@ -463,5 +468,8 @@ footer {
     padding-top: 100px;
     height: auto;
   }
+  .hero-work{
+     padding-top: 100px;
+    height: auto;
 }
 }
