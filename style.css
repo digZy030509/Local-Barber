@@ -472,4 +472,7 @@ footer {
      padding-top: 100px;
     height: auto;
 }
+  .location p{
+    font-size: 16px;
+}
 }
